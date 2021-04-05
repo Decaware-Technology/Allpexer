@@ -1,2 +1,2 @@
 # Allpexer
-A phone tester
+A phone app,durability and  tester
